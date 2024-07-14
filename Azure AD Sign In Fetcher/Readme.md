@@ -38,7 +38,7 @@ This guide explains how to set up the 'Azure AD Sign-In Logs Fetcher' applicatio
 Download or clone the repository from GitHub:
 
 ```sh
-git clone [github_placeholder]
+git clone https://github.com/Henry-Steele/Office365Utilities/tree/main/Azure%20AD%20Sign%20In%20Fetcher
 cd [repository_name]
 ```
 
